@@ -15,7 +15,7 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "5079629749"))
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://aryan1082:aryan_1082@cluster0.jmqpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/starkownerbot'>Lazy Url Hunterr</a>.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/starkownerbot'>Mdisk Url Hunterr</a>.
 
     Devs: 
         <a href='https://t.me/starkownerbot'>❤️ Stark Owner Bot ❤️</a>
